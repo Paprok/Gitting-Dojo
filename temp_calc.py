@@ -22,3 +22,6 @@ main()
 
 #spierdalaj git :)
 #poprawa main
+
+
+#ushusfhufshdfuhdsugshguh
