@@ -17,6 +17,7 @@ def main():
     temp_c = (5/9) * (temp_f - 32)
     print('It equals %.2f Celsius my Man!' % temp_c)
 
-main
+main()
 
 #spierdalaj git :)
+#poprawa main
