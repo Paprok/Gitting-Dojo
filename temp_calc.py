@@ -16,6 +16,7 @@ def main():
     temp_f = get_correct_input()
     temp_c = (5/9) * (temp_f - 32)
     print('It equals %.2f Celsius my Man!' % temp_c)
+    print('cycki')
 
 main()
 
