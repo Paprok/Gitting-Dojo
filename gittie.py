@@ -1,5 +1,7 @@
 def introduce():
     print('hello im gittie lul')
+    print("I will introduce you to..")
+
     return 'dupa'
 
 
@@ -9,6 +11,4 @@ def add():
 
 def joke():
     pass
-
-def introduce():
-    print("I will introduce you to..")
+    
