@@ -9,3 +9,6 @@ def add():
 
 def joke():
     pass
+
+def introduce():
+    print("I will introduce you to..")
