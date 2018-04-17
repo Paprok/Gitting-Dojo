@@ -14,3 +14,8 @@ def joke():
 
 def shout():
     print('krzyczę: CHUJ!!!')    
+
+def new_function_yeey():
+    print("Bow down")
+
+    
