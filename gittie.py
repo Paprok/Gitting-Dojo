@@ -11,4 +11,6 @@ def add():
 
 def joke():
     pass
-    
+
+def shout():
+    print('krzyczę: CHUJ!!!')    
