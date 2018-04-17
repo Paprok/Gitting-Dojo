@@ -1,4 +1,6 @@
-print('hello im gittie lul')
+def introduce():
+    print('hello im gittie lul')
+    return 'dupa'
 
 
 def add():
